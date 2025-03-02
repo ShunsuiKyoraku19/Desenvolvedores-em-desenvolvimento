@@ -1,4 +1,3 @@
-
 # Desenvolvedores-em-desenvolvimento.
 # Membros: Giovanna Chaves(Lider de Desenvolvimento)- Clara Maria(Gerente de projetos)- Lucas Martins(Validador)- Maxwell Lucas(Documentador)- Juan Custodio.
 
